@@ -1,5 +1,10 @@
 ### Hi there 👋 ,I am Archi Jain✨
-
+.
+.
+.
+- 🌱 I’m currently learning c,c++...
+- 👯 I’m looking to collaborate on c ...
+- 📫 How to reach me: jainarchi023@gmail.com...
 <!--
 **archijain23/archijain23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
